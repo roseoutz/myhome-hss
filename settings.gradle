@@ -1,0 +1,5 @@
+rootProject.name = 'myhome-hss'
+
+include 'myhome-hss-web-svr'
+include 'myhome-hss-common'
+
